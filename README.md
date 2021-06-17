@@ -14,6 +14,8 @@ The only option is to pay up or log out.
 
 So I have to pay $14 to change my password, on a credit card that Stan _has remembered_.
 
+* Yeah, don't worry, that credit card is already cancelled.
+
 ## So... the bad guy...
 
 ... logs in with the leaked credentials. Then:
