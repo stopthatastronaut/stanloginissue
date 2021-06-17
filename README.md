@@ -28,3 +28,7 @@ So I have to pay $14 to change my password, on a credit card that Stan _has reme
 ## Conclusion
 
 Stan should fix this, so that lapsed subscribers can change their passwords OR remove their accounts without needing to resubscribe.
+
+## Workround
+
+Do a password reset.
