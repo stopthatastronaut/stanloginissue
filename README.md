@@ -4,7 +4,7 @@
 
 Some time ago, I deactivated my Stan account. Let's face it, there's so much Streaming Media out there, one cannot consume it all. My girlfriend arrived with Netflix and Stan Subscriptions, I arived with Stan, Foxtel and Prime, easy to see which was going to lose out. So I turned off Stan. We watch hers now.
 
-Then I discovered via Dashlane that I'd has a password breach from another site, the password for which I'd imprudently re-used for my Stan account
+Then I discovered via Dashlane that I'd had a password breach from another site, the password for which I'd imprudently re-used when I signed up for my Stan account.
 
 So I went off to Stan.com.au to change that password. And I found... I can't do that.
 
